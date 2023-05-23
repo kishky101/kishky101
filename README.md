@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on projects
-- 📫 You can raech me through a mail to kishky.101@gmail.com
+- 📫 You can reach me through a mail to kishky.101@gmail.com
 
 <!---
 kishky101/kishky101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
