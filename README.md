@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-As a Frontend Developer with over three years of experience, I specialize in developing and implementing cutting-edge solutions for web applications. I excel at creating engaging user interfaces, ensuring optimal responsiveness, and quickly resolving coding issues, making me an asset to any team. Additionally , I have strong communication and interpersonal skills that allow me to work effectively with both colleagues and clients.
+As a Frontend Developer with over three years of experience, I specialize in developing and implementing cutting-edge solutions for web applications. I excel at creating engaging user interfaces, ensuring optimal responsiveness, and quickly resolving coding issues, making me an asset to any team. Additionally, I have strong communication and interpersonal skills that allow me to work effectively with both colleagues and clients.
 
 * 🌍  I'm based in Poland
 * 🖥️  See my portfolio at [kishky.dev](http://kishky.dev)
@@ -46,7 +46,7 @@ As a Frontend Developer with over three years of experience, I specialize in dev
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/kishky101"><img src="https://github-readme-stats.vercel.app/api?username=kishky101&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kishky101's GitHub stats" /></a>
+<a href="http://www.github.com/kishky101"><img src="https://github-readme-stats.vercel.app/api?username=kishky101&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kishky101's GitHub stats" /></a>
 
 <a href="http://www.github.com/kishky101"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kishky101&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
