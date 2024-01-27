@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-As a Frontend Developer with over two years of experience, I specialize in developing and implementing cutting-edge solutions for web applications. I excel at creating engaging user interfaces, ensuring optimal responsiveness, and quickly resolving coding issues, making me an asset to any team. Additionally, I have strong communication and interpersonal skills that allow me to work effectively with both colleagues and clients.
+As a Full-stack Developer with over two years of experience, I specialize in developing and implementing cutting-edge solutions for web applications. I excel at creating engaging user interfaces, ensuring optimal responsiveness, and quickly resolving coding issues, making me an asset to any team. Additionally, I have strong communication and interpersonal skills that allow me to work effectively with both colleagues and clients.
 
 * 🌍  I'm based in Poland
 * 🖥️  See my portfolio at [kishky.dev](http://kishky.dev)
 * ✉️  You can contact me at [kishkky.101@gmail.com](mailto:kishkky.101@gmail.com)
-* 🧠  I'm learning Next.JS
+* 🧠  I'm learning C++
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
