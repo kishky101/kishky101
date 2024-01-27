@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Marzuq Adebayo
 ======================================================================================================================================
 
-Frontend Developer
+Full-stack Developer
 ------------------
 
 As a Full-stack Developer with over two years of experience, I specialize in developing and implementing cutting-edge solutions for web applications. I excel at creating engaging user interfaces, ensuring optimal responsiveness, and quickly resolving coding issues, making me an asset to any team. Additionally, I have strong communication and interpersonal skills that allow me to work effectively with both colleagues and clients.
