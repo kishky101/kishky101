@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Marzuq Adebayo
 ======================================================================================================================================
 
-Full-stack Developer
+Full-stack Software Engineer
 ------------------
 
 Dynamic Full Stack software engineer specializing. Proven problem-solver with a focus on crafting innovative solutions. Strong communication skills for effective collaboration with colleagues and clients. Ready to contribute technical expertise to elevate your projects. Let's build the future of web development together! 🚀
