@@ -7,7 +7,6 @@ Full-stack Software Engineer
 Dynamic Full Stack software engineer. Proven problem-solver with a focus on crafting innovative solutions. Strong communication skills for effective collaboration with colleagues and clients. Ready to contribute technical expertise to elevate your projects. Let's build the future of web development together! 🚀
 
 * 🌍  I'm based in Poland
-* 🖥️  See my portfolio at [kishky.dev](http://kishky.dev)
 * ✉️  You can contact me at [kishkky.101@gmail.com](mailto:kishkky.101@gmail.com)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Projects
