@@ -8,7 +8,7 @@ Dynamic Full Stack software engineer. Proven problem-solver with a focus on craf
 
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [kishkky.101@gmail.com](mailto:kishkky.101@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning Solidity
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
